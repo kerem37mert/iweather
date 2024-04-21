@@ -1,0 +1,19 @@
+.Search { 
+    padding: 10px 20px;
+}
+
+.Search input {
+    background-color: #1E1E29;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #D8D8DA;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    width: 100%;
+    outline: none;
+}
+
+.Search input::placeholder {
+    color: #545468;
+}

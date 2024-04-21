@@ -1,0 +1,18 @@
+.Body {
+    color: #D4D4D4;
+    padding: 50px 0 20px;
+}
+
+.Body h1 {
+    text-align: center;
+}
+
+.Body p {
+    font-size: 1.2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.c-blue {
+    color: #7D9BD6;
+}
